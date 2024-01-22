@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gurugm
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Complete Python developer
-- 
+
+
 
 
 <!---
