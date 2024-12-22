@@ -5,7 +5,7 @@ I'm a passionate Python developer with a love for Data Science. I enjoy coding i
 
 ### Skills
 - **Programming Languages**: Python , SQl , Python for Data Science
-- **Technologies & Tools**: PowerBI , Tableau , VS code 
+- **Technologies & Tools**: PowerBI, VS code 
 - **Other Skills**: Digital Marketing
 
 ### Projects
